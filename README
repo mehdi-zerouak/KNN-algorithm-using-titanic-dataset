@@ -1,6 +1,8 @@
 THIS IS A UNIVERSITY PW PROJECT
 ================================
 
+accuracy = 78%
+
 dataset download link = https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download
 
 libraries used = scikit-learn, pandas
